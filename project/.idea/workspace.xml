@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sparlsql" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b99476d-55a7-4ccb-afcf-aba388e427d8" name="Default Changelist" comment="">
+      <change afterPath="E:/scalaaiqiyispark/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="E:/scalaaiqiyispark/.idea/libraries/activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="E:/scalaaiqiyispark/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="E:/scalaaiqiyispark/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="E:/scalaaiqiyispark/src/Print.scala" afterDir="false" />
+      <change afterPath="E:/scalaaiqiyispark/src/people.scala" afterDir="false" />
+      <change afterPath="E:/scalaaiqiyispark/src/shuzu.scala" afterDir="false" />
+      <change afterPath="E:/大数据项目/fresh/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/scalastudy$offer2.coverage" NAME="offer2 Coverage Results" MODIFIED="1553588770478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/python" />
+    <SUITE FILE_PATH="coverage/scalastudy$quicksort.coverage" NAME="quicksort Coverage Results" MODIFIED="1554087356259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/python" />
+    <SUITE FILE_PATH="coverage/scalastudy$offer3.coverage" NAME="offer3 Coverage Results" MODIFIED="1553594679640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/python" />
+    <SUITE FILE_PATH="coverage/scalastudy$offer1.coverage" NAME="offer1 Coverage Results" MODIFIED="1553499291195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/python" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1220075090">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="61" />
+          <entry key="py" value="5" />
+          <entry key="scala" value="69" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="61" />
+          <entry key="Python" value="5" />
+          <entry key="Scala" value="69" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="6" />
+          <entry key="java" value="17768" />
+          <entry key="py" value="579" />
+          <entry key="scala" value="17343" />
+          <entry key="xml" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="17768" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="579" />
+          <entry key="Scala" value="17343" />
+          <entry key="XML" value="26" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/RowNumberWindowFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/jsonlianxi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#840#943#1" expanded="true" />
+                <element signature="e#952#999#1" expanded="true" />
+                <element signature="e#1008#1049#1" expanded="true" />
+                <element signature="e#1058#1125#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/TOP3UV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="45" column="61" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#423#523#1" expanded="true" />
+                <element signature="e#528#575#1" expanded="true" />
+                <element signature="e#608#685#1" expanded="true" />
+                <element signature="e#548#571#0" expanded="true" />
+                <element signature="e#849#900#0" expanded="true" />
+                <element signature="e#849#900#0" expanded="true" />
+                <element signature="e#875#899#0" expanded="true" />
+                <element signature="e#729#738#0" expanded="true" />
+                <element signature="e#875#899#0" expanded="true" />
+                <element signature="e#849#900#0" expanded="true" />
+                <element signature="e#910#965#0" expanded="true" />
+                <element signature="e#910#965#0" expanded="true" />
+                <element signature="e#940#964#0" expanded="true" />
+                <element signature="e#789#798#0" expanded="true" />
+                <element signature="e#940#964#0" expanded="true" />
+                <element signature="e#910#965#0" expanded="true" />
+                <element signature="e#975#1046#0" expanded="true" />
+                <element signature="e#975#1046#0" expanded="true" />
+                <element signature="e#1004#1045#0" expanded="true" />
+                <element signature="e#848#853#0" expanded="true" />
+                <element signature="e#854#859#0" expanded="true" />
+                <element signature="e#860#865#0" expanded="true" />
+                <element signature="e#866#871#0" expanded="true" />
+                <element signature="e#1004#1045#0" expanded="true" />
+                <element signature="e#975#1046#0" expanded="true" />
+                <element signature="e#979#1120#1" expanded="true" />
+                <element signature="e#1064#1122#1" expanded="true" />
+                <element signature="e#1200#1290#1" expanded="true" />
+                <element signature="e#1274#1992#0" expanded="true" />
+                <element signature="e#1378#1402#1" expanded="true" />
+                <element signature="e#1407#1411#0" expanded="true" />
+                <element signature="e#1430#1456#1" expanded="true" />
+                <element signature="e#1430#1449#1" expanded="true" />
+                <element signature="e#1520#1549#1" expanded="true" />
+                <element signature="e#1566#1627#1" expanded="true" />
+                <element signature="e#1687#1725#1" expanded="true" />
+                <element signature="e#1706#1731#0" expanded="true" />
+                <element signature="e#1706#1731#0" expanded="true" />
+                <element signature="e#1991#1992#0" expanded="true" />
+                <element signature="e#2003#2046#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DataFrame</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/iToolBoxPlugin" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/mapcheng2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/joinlianxi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/TOP3UV.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/sortbykeylianxi.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/sortbykeylianxi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/reducebykeylianxi.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/reducebyKeyllianxin.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/groupbylianxi.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/actionlianxi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/fileterlianxi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/filterlianxi.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/TransformationOperation.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/parquetLoad.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/jsonlianxi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/maplianxi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/Groupbykeylianxi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/FlatMaplianxi.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/flatmaplianxi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/LineLengthCount.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/LocalFile.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/scalasparksql/Dataframecreate.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/python/offer3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/python/quicksort.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/TransformationOpeation.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/DailyTop3Keyword.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/Jsondatasource.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/LineCount.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/python/offer2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/RDD2dataset.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/jsonscala.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/scalasparksql/RDD2DataFrameProgrammatically.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/scalasparksql/ParquetLoadData.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/jsondatasource.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/LocalFile.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/scalasparksql/RDD2DataSetReflection.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/scalasparksql/Student.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/createDateset.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/ParallelizeCollection.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/javatest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/wordcount.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/ParallelizeCollection.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/RowNumberWindowFunction.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/Top3.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/scalasparksql/GenERIC.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/RDDDataFrameProgrammatically.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/BroadcastVariable.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/Top3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/SecondarySortKey.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/python/offer1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/day20190319/WordCountSort.scala" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaspark/Wordcountsort.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/GenericalLoadsave.scala" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/FlatMaplianxi.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/Groupbykeylianxi.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/groupbylianxi.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/reducebyKeyllianxin.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/reducebykeylianxi.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/sortbykeylianxi.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/sortbykeylianxi.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/joinlianxi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/actionlianxi.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/reducelianxi.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/mapcheng2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/maplianxi.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/wordcount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/joinlianxi.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/BroadcastVariable.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/Broadcast.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/joinlianxi.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/reducelianxi.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/Wordcountsort.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/WordCountSort.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/Top3.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/Top3.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/SecondarySortKey.java" />
+        <option value="$PROJECT_DIR$/src/main/python/offer1.py" />
+        <option value="$PROJECT_DIR$/src/main/java/topn.java" />
+        <option value="$PROJECT_DIR$/src/main/python/offer3.py" />
+        <option value="$PROJECT_DIR$/src/main/python/offer2.py" />
+        <option value="$PROJECT_DIR$/src/main/python/quicksort.py" />
+        <option value="$PROJECT_DIR$/src/main/java/DailyTop3Keyword.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dataframecreate.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/day20190319/createDateset.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparksql/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparksql/createDateset.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/sparksql/Dataframecreate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sparksql/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparksql/RDD2dataset.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/sparksql/RDD2DataSetReflection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sparksql/RDD2DataFrameProgrammatically.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparksql/RDDDataFrameProgrammatically.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/GenERIC.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/sparksql/GenericalLoadsave.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/scalasparksql/ParquetLoadData.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalasparksql/parquetLoad.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/jsonlianxi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaspark/Jsondatasource.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalasparksql/jsonscala.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalasparksql/jsondatasource.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/javaspark/RowNumberWindowFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaspark/jsonlianxi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaspark/TOP3UV.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scalastudy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scalastudy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scalastudy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="1195" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scalastudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalastudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalastudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalastudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalastudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalastudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalastudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalastudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalastudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalastudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalastudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalastudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scalasparksql" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554693723228" />
+    <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA IU-182.4892.20" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
+    <property name="last_opened_file_path" value="D:/iToolBoxPlugin.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sparksql" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\scalastudy\src\main\java\scala" />
+      <recent name="E:\scalastudy\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RowNumberWindowFunction">
+    <configuration name="Jsondatasource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaspark.Jsondatasource" />
+      <module name="scalastudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaspark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RowNumberWindowFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaspark.RowNumberWindowFunction" />
+      <module name="scalastudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaspark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jsondatasource (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalasparksql.cn.spark.study.sql.jsondatasource" />
+      <module name="scalastudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalasparksql.cn.spark.study.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jsondatasource" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalasparksql.jsondatasource" />
+      <module name="scalastudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalasparksql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jsonscala" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.spark.study.sql.jsonscala" />
+      <module name="scalastudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.spark.study.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Jsondatasource" />
+      <item itemvalue="Application.jsondatasource" />
+      <item itemvalue="Application.jsonscala" />
+      <item itemvalue="Application.jsondatasource (1)" />
+      <item itemvalue="Application.RowNumberWindowFunction" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RowNumberWindowFunction" />
+        <item itemvalue="Application.jsondatasource (1)" />
+        <item itemvalue="Application.jsonscala" />
+        <item itemvalue="Application.jsondatasource" />
+        <item itemvalue="Application.Jsondatasource" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="dontShowConversionDialog" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b99476d-55a7-4ccb-afcf-aba388e427d8" name="Default Changelist" comment="" />
+      <created>1552988811055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552988811055</updated>
+      <workItem from="1552988812659" duration="164137000" />
+      <workItem from="1554205354986" duration="3856000" />
+      <workItem from="1554209958067" duration="32996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="200989000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117962465" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.28936172" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2680851" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.10496454" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067025" side_tool="true" weight="0.34184396" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.33475178" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24128686" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.43404254" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2680851" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.10496454" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067025" side_tool="true" weight="0.34184396" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.33475178" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://E:/sparkjar/spark-2.1.1-bin-hadoop2.7/jars/spark-core_2.11-2.1.1.jar!/org/apache/spark/rdd/PairRDDFunctions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/quicksort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/DailyTop3Keyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/javatest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sparksql/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/createDateset.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/scalasparksql/RDD2DataSetReflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#525#633#1" expanded="true" />
+            <element signature="e#642#689#1" expanded="true" />
+            <element signature="e#698#739#1" expanded="true" />
+            <element signature="e#748#802#1" expanded="true" />
+            <element signature="e#811#1299#1" expanded="true" />
+            <element signature="e#1049#1498#0" expanded="true" />
+            <element signature="e#985#1022#1" expanded="true" />
+            <element signature="e#1039#1065#1" expanded="true" />
+            <element signature="e#1082#1131#0" expanded="true" />
+            <element signature="e#1082#1131#0" expanded="true" />
+            <element signature="e#1149#1176#0" expanded="true" />
+            <element signature="e#1149#1176#0" expanded="true" />
+            <element signature="e#1194#1244#0" expanded="true" />
+            <element signature="e#1194#1244#0" expanded="true" />
+            <element signature="e#1497#1498#0" expanded="true" />
+            <element signature="e#1308#1377#1" expanded="true" />
+            <element signature="e#1435#1509#1" expanded="true" />
+            <element signature="e#1518#1564#1" expanded="true" />
+            <element signature="e#1573#1967#1" expanded="true" />
+            <element signature="e#2055#2395#0" expanded="true" />
+            <element signature="e#1782#1808#1" expanded="true" />
+            <element signature="e#1799#1824#0" expanded="true" />
+            <element signature="e#1799#1824#0" expanded="true" />
+            <element signature="e#1842#1866#0" expanded="true" />
+            <element signature="e#1842#1866#0" expanded="true" />
+            <element signature="e#1884#1913#0" expanded="true" />
+            <element signature="e#1884#1913#0" expanded="true" />
+            <element signature="e#2394#2395#0" expanded="true" />
+            <element signature="e#2415#2601#0" expanded="true" />
+            <element signature="e#2600#2601#0" expanded="true" />
+            <element signature="e#1976#2027#1" expanded="true" />
+            <element signature="e#2040#2051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scalasparksql/Dataframecreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scalasparksql/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#504#550#0" expanded="true" />
+            <element signature="e#504#550#0" expanded="true" />
+            <element signature="e#504#550#0" expanded="true" />
+            <element signature="e#504#550#0" expanded="true" />
+            <element signature="e#504#550#0" expanded="true" />
+            <element signature="e#504#550#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/sparkjar/spark-2.1.1-bin-hadoop2.7/jars/spark-core_2.11-2.1.1.jar!/org/apache/spark/api/java/JavaSparkContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/api/java/JavaSparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scalasparksql/RDD2DataFrameProgrammatically.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#153#171#1" expanded="true" />
+            <element signature="e#317#340#1" expanded="true" />
+            <element signature="e#413#438#1" expanded="true" />
+            <element signature="e#503#538#1" expanded="true" />
+            <element signature="e#566#587#1" expanded="true" />
+            <element signature="e#939#1217#0" expanded="true" />
+            <element signature="e#808#832#1" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1228#1287#1" expanded="true" />
+            <element signature="e#1110#1127#0" expanded="true" />
+            <element signature="e#1123#1136#0" expanded="true" />
+            <element signature="e#1419#1499#0" expanded="true" />
+            <element signature="e#1419#1499#0" expanded="true" />
+            <element signature="e#1509#1590#0" expanded="true" />
+            <element signature="e#1509#1590#0" expanded="true" />
+            <element signature="e#1600#1681#0" expanded="true" />
+            <element signature="e#1600#1681#0" expanded="true" />
+            <element signature="e#1617#1647#1" expanded="true" />
+            <element signature="e#1690#1737#1" expanded="true" />
+            <element signature="e#1865#1899#1" expanded="true" />
+            <element signature="e#1992#2037#1" expanded="true" />
+            <element signature="e#2004#2011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalastudy.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/iToolBoxPlugin.jar!/com/qiyi/qos/task/error/QosMonitorErrorTask.class" />
+    <entry file="jar://E:/iToolBoxPlugin.jar!/com/qiyi/qos/task/error/QosMonitorErrorTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/iToolBoxPlugin_chang_mail_info.jar!/com/qiyi/qos/task/error/QosMonitorErrorTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5738">
+          <caret line="349" column="316" selection-start-line="349" selection-start-column="316" selection-end-line="349" selection-end-column="316" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/iToolBoxPlugin_chang_mail_info.jar!/com/qiyi/qos/task/crash/QosMonitorCrashTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="64" column="59" lean-forward="true" selection-start-line="64" selection-start-column="59" selection-end-line="64" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/iToolBoxPlugin.jar!/com/qiyi/qos/task/crash/QosMonitorCrashTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="402" column="63" selection-start-line="402" selection-start-column="61" selection-end-line="402" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scalasparksql/GenERIC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#378#425#1" expanded="true" />
+            <element signature="e#434#475#1" expanded="true" />
+            <element signature="e#484#544#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scalasparksql/ParquetLoadData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#409#514#1" expanded="true" />
+            <element signature="e#523#570#1" expanded="true" />
+            <element signature="e#579#620#1" expanded="true" />
+            <element signature="e#629#693#1" expanded="true" />
+            <element signature="e#746#805#1" expanded="true" />
+            <element signature="e#814#1053#1" expanded="true" />
+            <element signature="e#994#1016#0" expanded="true" />
+            <element signature="e#994#1016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/parquetLoad.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="6" selection-start-line="7" selection-end-line="8" />
+          <folding>
+            <element signature="e#23#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/RDD2dataset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/joinlianxi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/Jsondatasource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="121" column="20" selection-start-line="121" selection-start-column="8" selection-end-line="121" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1545#1831#0" expanded="true" />
+            <element signature="e#1830#1831#0" expanded="true" />
+            <element signature="e#2062#2094#0" expanded="true" />
+            <element signature="e#2126#2160#0" expanded="true" />
+            <element signature="e#2531#2597#1" expanded="true" />
+            <element signature="e#2610#2620#1" expanded="true" />
+            <element signature="e#2606#2814#0" expanded="true" />
+            <element signature="e#2606#2814#0" expanded="true" />
+            <element signature="e#2606#2814#0" expanded="true" />
+            <element signature="e#2676#2711#0" expanded="true" />
+            <element signature="e#2676#2711#0" expanded="true" />
+            <element signature="e#2844#2893#1" expanded="true" />
+            <element signature="e#3073#4097#1" expanded="true" />
+            <element signature="e#4189#4712#1" expanded="true" />
+            <element signature="e#4762#4824#1" expanded="true" />
+            <element signature="e#4795#4823#0" expanded="true" />
+            <element signature="e#4808#4821#0" expanded="true" />
+            <element signature="e#5108#5173#1" expanded="true" />
+            <element signature="e#5183#5267#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/LocalFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/RDDDataFrameProgrammatically.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/filterlianxi.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/FlatMaplianxi.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/groupbylianxi.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/joinlianxi.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/LineCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/LocalFile.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/ParallelizeCollection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/reducebykeylianxi.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/GenericalLoadsave.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/Top3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/sortbykeylianxi.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/reducelianxi.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/TransformationOperation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/jsondatasource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+          <folding>
+            <element signature="e#51#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/jsonscala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/wordcount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="e#20#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/day20190319/WordCountSort.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/createDateset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalasparksql/RowNumberWindowFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/RowNumberWindowFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/TOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/Top3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/jsonlianxi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#840#943#1" expanded="true" />
+            <element signature="e#952#999#1" expanded="true" />
+            <element signature="e#1008#1049#1" expanded="true" />
+            <element signature="e#1058#1125#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaspark/TOP3UV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="45" column="61" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#423#523#1" expanded="true" />
+            <element signature="e#528#575#1" expanded="true" />
+            <element signature="e#608#685#1" expanded="true" />
+            <element signature="e#548#571#0" expanded="true" />
+            <element signature="e#849#900#0" expanded="true" />
+            <element signature="e#849#900#0" expanded="true" />
+            <element signature="e#875#899#0" expanded="true" />
+            <element signature="e#729#738#0" expanded="true" />
+            <element signature="e#875#899#0" expanded="true" />
+            <element signature="e#849#900#0" expanded="true" />
+            <element signature="e#910#965#0" expanded="true" />
+            <element signature="e#910#965#0" expanded="true" />
+            <element signature="e#940#964#0" expanded="true" />
+            <element signature="e#789#798#0" expanded="true" />
+            <element signature="e#940#964#0" expanded="true" />
+            <element signature="e#910#965#0" expanded="true" />
+            <element signature="e#975#1046#0" expanded="true" />
+            <element signature="e#975#1046#0" expanded="true" />
+            <element signature="e#1004#1045#0" expanded="true" />
+            <element signature="e#848#853#0" expanded="true" />
+            <element signature="e#854#859#0" expanded="true" />
+            <element signature="e#860#865#0" expanded="true" />
+            <element signature="e#866#871#0" expanded="true" />
+            <element signature="e#1004#1045#0" expanded="true" />
+            <element signature="e#975#1046#0" expanded="true" />
+            <element signature="e#979#1120#1" expanded="true" />
+            <element signature="e#1064#1122#1" expanded="true" />
+            <element signature="e#1200#1290#1" expanded="true" />
+            <element signature="e#1274#1992#0" expanded="true" />
+            <element signature="e#1378#1402#1" expanded="true" />
+            <element signature="e#1407#1411#0" expanded="true" />
+            <element signature="e#1430#1456#1" expanded="true" />
+            <element signature="e#1430#1449#1" expanded="true" />
+            <element signature="e#1520#1549#1" expanded="true" />
+            <element signature="e#1566#1627#1" expanded="true" />
+            <element signature="e#1687#1725#1" expanded="true" />
+            <element signature="e#1706#1731#0" expanded="true" />
+            <element signature="e#1706#1731#0" expanded="true" />
+            <element signature="e#1991#1992#0" expanded="true" />
+            <element signature="e#2003#2046#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>sparlsql</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python|scalastudy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>activation-1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

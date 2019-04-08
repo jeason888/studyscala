@@ -1,0 +1,5 @@
+package scalasparksql
+
+class RowNumberWindowFunction {
+
+}

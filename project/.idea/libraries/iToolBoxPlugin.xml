@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iToolBoxPlugin">
+    <CLASSES>
+      <root url="jar://D:/iToolBoxPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
